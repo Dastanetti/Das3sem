@@ -14,7 +14,7 @@
 ## Работа со списками
 4. Donec sit amet nisl. Aliquam semper ipsum sit amet
 velit. Suspendisse id sem consectetuer libero luctus
-adipiscing.111
+adipiscing.1
 На самом деле не важно как в коде пронумерованы пункты,
 главное, чтобы перед элементом списка стояла цифра
 (любая) с точкой. Можно сделать и так:
